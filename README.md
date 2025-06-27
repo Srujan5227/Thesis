@@ -1,7 +1,19 @@
+# Regulator-Grade Explainability and Fairness in Credit-Card Default Prediction
 
-## Thesis - Regulator-Grade Explainability and Fairness in Credit-Card Default Prediction  
-This repository contains the Jupyter Notebook used for my MSc Data Science thesis. It includes models like Logistic Regression, LightGBM, and fairness/explainability analysis using SHAP.
-**Author:** Srujan kUmar Goud Bombay  
+**Author:** Srujan Bombay  
 **Program:** MSc in Data Science  
-**University:** GISMA University Of Applied Sciences
+**University:** GISMA University of Applied Sciences  
+
+## 📄 Overview
+This project investigates the effectiveness, transparency, and fairness of machine learning models—particularly LightGBM—compared to traditional logistic regression in predicting credit card default. It uses SHAP for interpretability and includes a fairness audit across income and geography.
+
+## 📁 Contents
+- `Project_1.ipynb`: Jupyter notebook containing all experiments, results, and plots.
+
+## 🛠️ Requirements
+- Python 3.x
+- scikit-learn, LightGBM, pandas, SHAP, matplotlib, etc.
+
+## 📂 How to Run
+Open the notebook using Jupyter or any compatible environment.
 
